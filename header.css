@@ -4,6 +4,8 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 
+
+
 body {
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
@@ -95,12 +97,14 @@ img {
     font-style: bold;
     font-weight: 200;
 }
+
 p{
     font-family: NewRomanTimes;
     color: #000;
     font-weight: 200;
     line-height: 1.3;
     font-size: 22px;
+    text-indent:50px;
 }
 i{
     font-family: NewRomanTimes;
