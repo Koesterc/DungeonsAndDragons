@@ -80,6 +80,20 @@ img {
     font-style: bold;
     font-weight: 100;
 }
+@font-face 
+{
+    font-family: Royal;
+    src: url(Fonts/Royal.ttf);
+    font-style: bold;
+    font-weight: 200;
+}
+@font-face 
+{
+    font-family: Alegreya;
+    src: url(Fonts/AlegreyaSC-Regular.otf);
+    font-style: bold;
+    font-weight: 200;
+}
 
 p{
         font-weight: 100;
