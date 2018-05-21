@@ -72,9 +72,8 @@ img {
     display: block;
     margin: 25px 25px;
     max-width: 100%;
-    border: 2px solid black;
-    outline-color: red;
 }
+
 
 @font-face 
 {
@@ -138,4 +137,20 @@ i{
         -webkit-filter: grayscale(0%);
         filter: grayscale(0%);
     }
+}
+
+ul
+{
+    color: black;
+}
+
+ul > li
+{
+
+    color: black;
+}
+
+ul > li > span
+{
+    color: black;
 }
